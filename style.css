@@ -19,16 +19,16 @@ body {
 
 @keyframes untoldcoding {
   0% {
-    background-image: url("https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
+    background-image: url("img/love2.jpg");
   }
   25% {
-    background-image: url("https://i.postimg.cc/vBHgsPwZ/sunset-698501-1280.jpg");
+    background-image: url("img/love5.jpeg");
   }
   50% {
-    background-image: url(" https://i.postimg.cc/9Fq4CRKZ/candles-1645551-1280.jpg");
+    background-image: url("img/love7.jpeg");
   }
   80% {
-    background-image: url("https://i.postimg.cc/w3Kj72ZJ/rose-3407234-1280.jpg");
+    background-image: url("img/love4.jpg");
   }
 }
 
