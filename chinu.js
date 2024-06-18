@@ -16,3 +16,10 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   }
 }
+
+document.querySelectorAll("#text1").addEventListener(music());
+function music(){
+  // alert("working");
+  var audio = new Audio('./img/music.mp3');
+  audio.play();
+  }

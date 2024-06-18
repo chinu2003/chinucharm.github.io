@@ -19,16 +19,16 @@ body {
 
 @keyframes untoldcoding {
   0% {
-    background-image: url("img/love2.jpg");
+    background-image: url("img/love1.jpg");
   }
   25% {
-    background-image: url("img/love5.jpeg");
+    background-image: url("img/love4.jpg");
   }
   50% {
-    background-image: url("img/love7.jpeg");
+    background-image: url("img/love5.jpeg");
   }
   80% {
-    background-image: url("img/love4.jpg");
+    background-image: url("img/love7.jpeg");
   }
 }
 
