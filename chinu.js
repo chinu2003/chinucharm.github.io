@@ -17,7 +17,7 @@ function typeWriter() {
   }
 }
 
-document.querySelectorAll("#text1").addEventListener(music());
+// document.querySelectorAll("#text1").addEventListener(music());
 function music(){
   // alert("working");
   var audio = new Audio('./img/music.mp3');
